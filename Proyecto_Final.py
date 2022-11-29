@@ -25,7 +25,7 @@ for item in info.each(): #for que recorre el bucket e imprime los elementos dent
             print("Numero mayor que 9")
         else:
             print(f'Numero = {item.val()}')    
-    elif("Temperatura C" == item.key()): 
+    elif("Temperatura C" == item.key()):  #Temperatura
         print(f'{item.key()} = {item.val()}°C')
     elif("TemperaturaF" == item.key()):
         print(f'{item.key()} = {item.val()}°F')
