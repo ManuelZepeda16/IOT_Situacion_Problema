@@ -1,7 +1,7 @@
 
 import pyrebase #Manejo de firebase con python
 
-config = { #Configuracion de la firebase
+config = { #Configuracion de la firebase.
 "apiKey" : "AIzaSyAWJVYq8o_8DJFNpbl5CMhW28S2Ayyd8DM", 
 "authDomain" : "proyecto1-a433f.firebaseapp.com",
 "databaseURL": "https://proyecto1-a433f-default-rtdb.firebaseio.com",
